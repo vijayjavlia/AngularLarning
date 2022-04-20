@@ -1,0 +1,6 @@
+<p>parentcomponent works!</p>
+
+<app-childcomponent [item]="data"></app-childcomponent>
+
+<!-- child to parent data transfer example -->
+<app-childcomponent (updatefromchildevent)="updatefromchild($event)" ></app-childcomponent>

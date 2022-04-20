@@ -1,0 +1,16 @@
+.nav-bar{
+    /* background-color: azure; */
+    height:80px;
+   
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav-bar span img{
+    width:150px;
+    margin-left: 20px;
+}
+.nav-items{
+
+    padding-right: 50px;
+}

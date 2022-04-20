@@ -1,0 +1,15 @@
+.login{
+    min-width: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.loginForm{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aliceblue ;
+    border-radius: 3px;
+    width: 400px;
+    height: 300px;
+}
